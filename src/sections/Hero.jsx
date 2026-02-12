@@ -96,12 +96,13 @@ export const Hero = () => {
     Contact Me <ArrowRight className="w-5 h-5" />
   </Button>
 
-  <a href="public/alihaider.pdf" download="AliHaider_CV.pdf">
+  <a href="/alihaider.pdf" download="AliHaider_cv.pdf">
   <AnimatedBorderButton>
     <Download className="w-5 h-5" />
     Download CV
   </AnimatedBorderButton>
 </a>
+
 </div>
 
 
