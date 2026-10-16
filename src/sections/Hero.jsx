@@ -86,7 +86,7 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                From crafting pixel-perfect websites to building dynamic, full-stack applications, I'm a MERN stack developer who turns code into functional and engaging experiences. With 1 year of hands-on experience, I bring a blend of creativity, technical expertise, and problem-solving skills to every project. Get ready to see software engineering in action.
+                From crafting pixel-perfect websites to building dynamic, full-stack applications, I'm a MERN stack developer who turns code into functional and engaging experiences. With 2 year of hands-on experience, I bring a blend of creativity, technical expertise, and problem-solving skills to every project. Get ready to see software engineering in action.
               </p>
             </div>
 
